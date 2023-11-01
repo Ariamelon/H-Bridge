@@ -7,4 +7,4 @@ A mosfet H-Bridge brushed motor controller created for university. It's easily c
 ![Video1](Showcase/Video1.mp4)
 ![Video2](Showcase/Video2.mp4)
 ![H-Bridge-Assembly](Showcase/Board.pdf)
-![Schematic](Board/Schematic.svg)
+![Schematic](Showcase/Schematic.svg)
